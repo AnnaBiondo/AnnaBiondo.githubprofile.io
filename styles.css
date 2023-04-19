@@ -1,25 +1,25 @@
 .display {
   text-align: center;
-  background-color:red;
+  background-color:rgb(255, 251, 0);
   padding:10%;
   margin:auto;
-  text-decoration: overline;
-  font-size:800%;
+  text-decoration: underline;
+  font-size:400%;
   border: 30px solid;
   font-family:fantasy;
 }
 .title {
   text-align: match-parent;
-  background-color:red;
+  background-color:rgb(217, 255, 0);
   padding:5%;
   margin:auto;
   text-decoration: overline;
-  font-size:600%;
+  font-size:400%;
   border: 15px solid;
   font-family:fantasy;
 }
-.video {
-  margin-left:25%;
+p {
+  background-color: aquamarine;
 }
 p {
   font-family:fantasy;
@@ -38,15 +38,15 @@ p {
   font-family:fantasy;
   font-style: oblique;
   text-align: center;
-  padding:36px;
+  padding:30px;
   margin:auto;
   text-decoration: overline;
-  border: 15px solid;
+  border: 10px solid;
 }
 .dates {
   font-family:fantasy;
-  font-style: oblique;
+  font-style: italic;
   text-align: center;
   margin:auto;
-  font-size:125%;
+  font-size:100%;
 }
