@@ -5,7 +5,7 @@
   margin:auto;
   text-decoration: underline;
   font-size:400%;
-  border: 30px solid;
+  border: 10px solid;
   font-family:fantasy;
 }
 .title {
@@ -15,7 +15,7 @@
   margin:auto;
   text-decoration: underline;
   font-size:400%;
-  border: 15px solid;
+  border: 5px solid;
   font-family:fantasy;
 }
 p {
